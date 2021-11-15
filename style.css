@@ -693,6 +693,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a
 p
 {
 	font-size: 15px;
+    text-align: center;
 }
 
 .tight-width-whitespace
@@ -747,6 +748,7 @@ h3
 h1
 {
 	color: #333333!important;
+    text-align: center;
 }
 
 h4
