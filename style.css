@@ -955,6 +955,7 @@ h4
 }
 */
 }
+/*
 @media (max-width: 767px)
 {
 	.page-container
@@ -1138,7 +1139,9 @@ h4
 		width: 180px;
 		height: 320px;
 	}
+
 }
+*/
 @media  (max-width: 600px)
 {
 	.col-sm-12
