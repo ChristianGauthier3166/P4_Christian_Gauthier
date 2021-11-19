@@ -52,6 +52,7 @@ a:hover
 .bloc-lg
 {
 	padding: 100px 50px;
+	text-align: center;
 }
 
 .bloc-md
@@ -660,15 +661,8 @@ a[data-lightbox]:hover img
 h1,h2,h3,h4,h5,h6,p,label,.btn,a
 {
 	font-family: "helvetica";
-	font-weight: 200;
 	color: #575757!important;
 }
-
-.container
-{
-	max-width: 1000px;
-}
-
 .hero-bloc-text
 {
 	font-size: 38px;
@@ -713,9 +707,11 @@ p
 	margin-top: 22px;
 	color: #FFFFFF!important;
 	text-transform: uppercase;
-	padding: 12px 28px 12px 28px;
+	padding: 12px 58px 12px 58px;
 	font-size: 16px;
 	font-weight: 700;
+	text-align: center;
+	border-radius: 40px;
 }
 
 .social
@@ -829,7 +825,7 @@ h4
 
 .ltc-white
 {
-	color: #FFFFFF!important;
+	color: black!important;
 }
 
 .ltc-white:hover
@@ -863,6 +859,12 @@ h4
 	background-image: url("img/lines-h2-bg.png");
 }
 
+.form-group
+{
+	padding: 10px;
+	text-align: center;
+	
+}
 /*.bg-banniere
 {
 	background-image: url("img/la-chouette-agence-banniere.jpg");
@@ -1113,11 +1115,6 @@ h4
 	.voffset-lg
 	{
 		margin-top: 30px;
-	}
-
-	form
-	{
-		padding: 5px;
 	}
 
 	.close-lightbox
