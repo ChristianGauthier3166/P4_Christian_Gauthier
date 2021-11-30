@@ -813,13 +813,13 @@ h4
 
 .btn-atomic-tangerine
 {
-	background: #F3976C;
+	background:rgb(148,54,11);
 	color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover
 {
-	background: #c27956!important;
+	background:rgb(148,54,11) !important;
 	color: #FFFFFF!important;
 }
 
