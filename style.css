@@ -62,7 +62,7 @@ a:hover
 
 .bloc-sm
 {
-	padding: 20px 50px;
+	/*padding: 20px 50px;*/
 }
 
 .bg-center,.bg-l-edge,.bg-r-edge,.bg-t-edge,.bg-b-edge,.bg-tl-edge,.bg-bl-edge,.bg-tr-edge,.bg-br-edge,.bg-repeat
@@ -247,12 +247,12 @@ a:hover
 
 #bloc-1-hero h1
 {
-	font-size: 32px;
+	/*font-size: 32px;*/
 }
 
 .navbar
 {
-	margin-bottom: 0;
+	margin-bottom: -50px;
 	z-index: 1;
 }
 
