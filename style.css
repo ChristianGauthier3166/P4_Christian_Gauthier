@@ -60,10 +60,10 @@ a:hover
 	padding: 50px;
 }
 
-.bloc-sm
+/*.bloc-sm
 {
-	/*padding: 20px 50px;*/
-}
+	padding: 20px 50px;
+}*/
 
 .bg-center,.bg-l-edge,.bg-r-edge,.bg-t-edge,.bg-b-edge,.bg-tl-edge,.bg-bl-edge,.bg-tr-edge,.bg-br-edge,.bg-repeat
 {
