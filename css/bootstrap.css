@@ -4223,8 +4223,8 @@ fieldset[disabled] .btn-link:hover {
 }
 
 .btn-block {
-    display: block;
-    width: 100%
+    /*display: block;*/
+    width: 95%;
 }
 
 .btn-block+.btn-block {

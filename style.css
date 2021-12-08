@@ -288,6 +288,7 @@ a:hover
 	margin-right: 86px;
 	float: right;
 	z-index: 1;
+	font-weight:bold;
 }
 
 .nav > li
@@ -665,6 +666,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a
 .hero-bloc-text
 {
 	font-size: 38px;
+	
 }
 
 .hero-bloc-text-sub
@@ -708,7 +710,7 @@ p
 	color: #FFFFFF!important;
 	text-transform: uppercase;
 	padding: 12px 58px 12px 58px;
-	font-size: 16px;
+	
 	font-weight: 700;
 	text-align: center;
 	border-radius: 40px;
@@ -967,8 +969,8 @@ h4
 
 	h1,h2,h3,h4,h5,h6,p,#disqus_thread
 	{
-		padding-left: 10px!important;
-		padding-right: 10px!important;
+		padding-left: 20px!important;
+		padding-right: 20px!important;
 	}
 
 	.b-parallax
@@ -1143,6 +1145,7 @@ h4
 	.col-sm-12
     {
     font-size: 14px;
+	margin: auto;
     }	
 }
 
